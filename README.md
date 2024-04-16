@@ -1,6 +1,9 @@
 # 2024fastAPI
 fastAPI를 이용한 붓꽃분류시스템, 영화추천시스템, 2024 1학기 캡스톤프로젝트
 
+
+
+
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
@@ -17,7 +20,7 @@ fastAPI를 이용한 붓꽃분류시스템, 영화추천시스템, 2024 1학기 
   <br>
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-
+</div>
 ## 붓꽃분류시스템
 개발환경
 annotated-types==0.6.0
@@ -88,5 +91,34 @@ tzdata==2024.1
 urllib3==2.2.1
 uvicorn==0.28.1
 zipp==3.18.1
+
+```json
+{
+  "result": [
+    {
+      "movieId": 53453,
+      "title": "Starcrash (a.k.a. Star Crash) (1978)",
+      "genres": "Action|Adventure|Fantasy|Sci-Fi",
+      "imdbId": 79946,
+      "tmdbId": 22049.0,
+      "url": "http://www.imdb.com/title/tt0079946",
+      "rcount": 1,
+      "rmean": 0.5,
+      "poster_path": "https://image.tmdb.org/t/p/original/npJt35Q36aGcTYpcg9epbwQIIkz.jpg"
+    },
+    {
+      "movieId": 155358,
+      "title": "Camino (2016)",
+      "genres": "Action|Adventure|Thriller",
+      "imdbId": 4991652,
+      "tmdbId": 359025.0,
+      "url": "http://www.imdb.com/title/tt4991652",
+      "rcount": 1,
+      "rmean": 2.0,
+      "poster_path": "https://image.tmdb.org/t/p/original/4DOzp5Rx8roC9YvvDgmoZAGeiGF.jpg"
+    },
+```
+
+
 
 
