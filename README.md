@@ -50,6 +50,7 @@ uvicorn==0.27.1
 
 
 ## 영화추천시스템
+![all화면](https://github.com/yoyoshingu/2024fastAPI/assets/65639370/a4f0b9d0-ed71-4959-9427-bee6a7a7b4f4)
 개발환경
 annotated-types==0.6.0
 anyio==4.3.0
