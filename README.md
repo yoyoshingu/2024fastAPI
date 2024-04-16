@@ -21,7 +21,11 @@ fastAPI를 이용한 붓꽃분류시스템, 영화추천시스템, 2024 1학기 
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
+
 ## 붓꽃분류시스템
+
+![동작화면](https://github.com/yoyoshingu/2024fastAPI/assets/65639370/abcdfab7-829a-4bee-a270-a56713742861)
+
 개발환경
 annotated-types==0.6.0
 anyio==4.3.0
